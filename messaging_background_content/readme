@@ -2,3 +2,5 @@
 use chrome.runtime.sendMessage() in background.js and chrome.runtime.getMessage() in content.js to learn messaging API
 click the extension button on the tool bar to enable some changes of content on the web page. background.js would listen 
 to the action of button click and send message to content.js
+
+Note: It can be only used in local file
