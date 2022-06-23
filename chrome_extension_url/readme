@@ -1,3 +1,2 @@
-# Learning Topic
 Use web_accessible_resources to insert files in the extension
 Use chrome.runtime.getURL in content.js to access the file inside extension
